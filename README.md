@@ -8,8 +8,24 @@ The html form collects the data and user selected options and sends it to the ba
 
 The backend program made using python language recieves the data and process it and returns the desired output.
 
+Web UI
 
 ![frontend](images/image-1.png?raw=true)
 
 
+Now we check the current RAM usage in the server.
 
+![ram check](images/image-2.png?raw=true)
+
+Output
+
+![output](images/image-3.png?raw=true)
+
+
+To check if a given package is present in the server.
+
+![pack_check](images/image-4.png?raw=true)
+
+Output
+
+![output](images/image-5.png?raw=true)
