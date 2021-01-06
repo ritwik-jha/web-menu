@@ -9,7 +9,7 @@ The html form collects the data and user selected options and sends it to the ba
 The backend program made using python language recieves the data and process it and returns the desired output.
 
 
-![frontend](https://github.com/ritwik-jha/web-menu/blob/images/image-1.png?raw=true)
+![frontend](images/image-1.png?raw=true)
 
 
 
