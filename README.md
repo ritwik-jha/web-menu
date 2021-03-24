@@ -1,4 +1,4 @@
-# web based menu for automating different technologies (task-9.2)
+# Web Based Menu for Automating Different Technologies (Project-9.2)
 
 In this task we have created a web based menu using which we can operate the linux backend without knowing the actual commands.
 This helps us to work on different technologies without knowing the actual commands for those. Being a web based user interface it can be easily used by anyone and is very easy to understand.
